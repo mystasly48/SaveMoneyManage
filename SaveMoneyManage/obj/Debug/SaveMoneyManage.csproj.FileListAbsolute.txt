@@ -1,9 +1,0 @@
-D:\Programming\C#\Sources\SaveMoneyManage\SaveMoneyManage\bin\Debug\貯金管理.exe.config
-D:\Programming\C#\Sources\SaveMoneyManage\SaveMoneyManage\bin\Debug\貯金管理.exe
-D:\Programming\C#\Sources\SaveMoneyManage\SaveMoneyManage\bin\Debug\貯金管理.pdb
-D:\Programming\C#\Sources\SaveMoneyManage\SaveMoneyManage\obj\Debug\SaveMoneyManage.csprojResolveAssemblyReference.cache
-D:\Programming\C#\Sources\SaveMoneyManage\SaveMoneyManage\obj\Debug\SaveMoneyManage.Form1.resources
-D:\Programming\C#\Sources\SaveMoneyManage\SaveMoneyManage\obj\Debug\SaveMoneyManage.Properties.Resources.resources
-D:\Programming\C#\Sources\SaveMoneyManage\SaveMoneyManage\obj\Debug\SaveMoneyManage.csproj.GenerateResource.Cache
-D:\Programming\C#\Sources\SaveMoneyManage\SaveMoneyManage\obj\Debug\貯金管理.exe
-D:\Programming\C#\Sources\SaveMoneyManage\SaveMoneyManage\obj\Debug\貯金管理.pdb
